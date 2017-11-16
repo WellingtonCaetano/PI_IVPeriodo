@@ -9,12 +9,13 @@ package br.com.marwel.model;
  *
  * @author wellington
  */
-public class CategoriaVeiculo_Model {
+public class Profissao_Model {
     //Atributos
     private int codigo;
     private String descricao;
     
     //Geters e Seters
+
     public int getCodigo() {
         return codigo;
     }
